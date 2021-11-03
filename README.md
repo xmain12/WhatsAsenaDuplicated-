@@ -1,1 +1,1 @@
-[😵‍💫]{heroku.com/deploy?template=https://github.com/xmain12/WhatsAsenaDuplicated-}
+[😵‍💫](heroku.com/deploy?template=https://github.com/xmain12/WhatsAsenaDuplicated-)
